@@ -1,0 +1,14 @@
+.clearfix::after {
+    content: " ";
+    display: block;
+    clear: both;
+  }
+  
+  .portfolioimage {
+    float: left;
+  }
+  
+  .bio {
+    /* float: left; */
+  }
+  
